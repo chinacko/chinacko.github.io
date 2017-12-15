@@ -7,4 +7,6 @@
 **guoliang@chinacko.org**
 #### qq群: 123456
 
+- [help](http://www.chinacko.org/help.html)
+
 ![Image](https://www.bernardmarr.com/img/books/data-strategy.png)
